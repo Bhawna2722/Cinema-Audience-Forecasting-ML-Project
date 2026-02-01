@@ -1,4 +1,4 @@
-# Movie Booking Demand Prediction (EDA + XGBoost)
+# Cinema Audience Forecasting ML Project
 
 This repository contains a complete machine learning workflow implemented in a Jupyter Notebook for predicting movie booking demand using multiple real-world datasets.  
 The project covers **data loading, exploratory data analysis (EDA), feature engineering, preprocessing, model training using XGBoost, and submission generation**.
